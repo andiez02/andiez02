@@ -1,95 +1,132 @@
-<!-- Andiez -->
-<a href="#" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=250&section=header&text=Hello%20Universe,%20I'm%20Andiez&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Cosmic%20Code%20Explorer&descSize=20&descAlignY=62" width="1200" alt="andiez-profile-header" />
-</a>
-
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="25" /></span>
-&nbsp;
-
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align=center>
-  <a href="#" title="Andiez">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andiez&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00f0ff&text_color=ffffff&icon_color=00f0ff&bg_color=20232a&langs_count=8&layout=compact&border_color=00f0ff&hide_border=true" />
-  </a>
-  <a href="#" title="Andiez">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=andiez&show_icons=true&theme=react&border_color=00f0ff&hide_border=true&rank_icon=github&include_all_commits=true&title_color=00f0ff&icon_color=00f0ff" />
-  </a>
-</div>
-
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<div align="center">
-  <a href="https://andiez.dev" target="blank">
-    <img width="90" height="90" src="https://capsule-render.vercel.app/api?type=soft&color=00f0ff&text=A&fontSize=40&animation=blinking" alt="andiez-website" />
-  </a>
-  <a href="https://linkedin.com/in/andiez" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="andiez-linkedin" />
-  </a>
-  <a href="https://github.com/andiez" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="andiez-github" />
-  </a>
-  <a href="mailto:your.email@example.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="andiez-email" />
-  </a>
-</div>
-
-<br>
-<h2 align="center">💫 About Me 💫</h2>
-<br>
+<!-- Cosmic Developer Header -->
 <p align="center">
-  <strong>🚀 Passionate about crafting clean, scalable code in a dynamic universe</strong><br>
-  <strong>✨ Always exploring new technologies and pushing creative boundaries</strong><br>
-  <strong>🌌 Constantly evolving under the cosmic energy</strong><br>
-  <strong>🔭 Building digital experiences that transcend ordinary limits</strong><br>
-  <strong>⭐ Guided by the stars of optimal performance and elegant solutions</strong>
+  <a href="#" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:05C7F2&height=300&section=header&text=Hello%20Universe,%20I'm%20Andiez&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Cosmic%20Code%20Explorer&descSize=20&descAlignY=55" width="100%" alt="cosmic-dev-header" />
+  </a>
 </p>
 
-<br>
-<h2 align="center">📑 My Favorite Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&size=27&duration=2000&pause=2000&color=00F0FF&center=true&vCenter=true&width=1000&lines=Code+is+like+the+universe+%E2%80%94+elegant%2C+mysterious%2C+and+full+of+possibilities." width="846" height="100" alt="andiez-favorite-quote" />
-</a>
+<!-- Animated Code Skills -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=05C7F2&center=true&vCenter=true&width=600&lines=JavaScript+Enthusiast;TypeScript+Voyager;React+Architect;Node.js+Engineer;Cosmic+Code+Explorer" alt="Typing SVG" /></a>
+</p>
 
-<br><br>
+<!-- Tech Stack Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNzdnVoeTg5aHMxNWN0OXhkdWlrdjkybnRpOGltbmVudDQ0YXhmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPtjElfqwMOTbH2/giphy.gif" width="25" height="25"> 
+  Technologies and Tools
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNzdnVoeTg5aHMxNWN0OXhkdWlrdjkybnRpOGltbmVudDQ0YXhmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPtjElfqwMOTbH2/giphy.gif" width="25" height="25">
+</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=150&section=footer" width="1200" alt="andiez-profile-footer" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-282C34?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-282C34?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-282C34?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" />
+  <img src="https://img.shields.io/badge/Next.js-282C34?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-282C34?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-282C34?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-282C34?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-282C34?style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-282C34?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-282C34?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-282C34?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/GraphQL-282C34?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-282C34?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-282C34?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Firebase-282C34?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GitHub-282C34?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </div>
+
+<!-- Animated Space Separator -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" />
+</p>
+
+<!-- Profile Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftd2J1Z3Q2cTJ2aWl2MTRzYWR1aGtlbXpvYTZzb2k0Z3duNWV3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hpFTV3KfDXTQ9X8pJC/giphy.gif" width="35" height="35"> 
+  About Me 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftd2J1Z3Q2cTJ2aWl2MTRzYWR1aGtlbXpvYTZzb2k0Z3duNWV3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hpFTV3KfDXTQ9X8pJC/giphy.gif" width="35" height="35">
+</h2>
+
+<table border="0" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHN2d3Q2dTU3YTRoMmV1a3ZxOW90bjl1c2xycGZjMnB1N201dGR5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fzGJYq7zAQlAlWM/giphy.gif" width="300" />
+    </td>
+    <td width="50%">
+      <ul>
+        <li>🚀 <strong>Passionate about crafting clean, scalable code in a dynamic universe</strong></li>
+        <li>✨ <strong>Always exploring new technologies and pushing creative boundaries</strong></li>
+        <li>🌌 <strong>Constantly evolving under the cosmic energy</strong></li>
+        <li>🔭 <strong>Building digital experiences that transcend ordinary limits</strong></li>
+        <li>⭐ <strong>Guided by the stars of optimal performance and elegant solutions</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub Stats -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlkbmd5Njl0b3I4YWlwanN0ZHIzamdvempub3FiN2Z3MzVreWp1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35"> 
+  GitHub Stats 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlkbmd5Njl0b3I4YWlwanN0ZHIzamdvempub3FiN2Z3MzVreWp1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" height="35">
+</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andiez&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=05C7F2&icon_color=05C7F2&text_color=FFFFFF&border_color=05C7F2" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=andiez&theme=black-ice&hide_border=true&stroke=05C7F2&background=0D1117&ring=05C7F2&fire=05C7F2&currStreakLabel=05C7F2" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andiez&layout=compact&hide_border=true&theme=react&bg_color=0D1117&title_color=05C7F2&text_color=FFFFFF&border_color=05C7F2" alt="Most Used Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andiez&theme=github_dark" alt="GitHub Profile Summary" />
+</div>
+
+<!-- Contact Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZtbWE3aGZhd3JvdDFzcmp4c2ZiZ3N1Z2lmdzhyMGd5azlxOWxrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0GiSGLUXXeOyO1W0tu/giphy.gif" width="35" height="35"> 
+  Connect With Me
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZtbWE3aGZhd3JvdDFzcmp4c2ZiZ3N1Z2lmdzhyMGd5azlxOWxrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0GiSGLUXXeOyO1W0tu/giphy.gif" width="35" height="35">
+</h2>
+
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-05C7F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/andiez">
+    <img src="https://img.shields.io/badge/LinkedIn-05C7F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/andiez">
+    <img src="https://img.shields.io/badge/GitHub-05C7F2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://andiez.dev">
+    <img src="https://img.shields.io/badge/Portfolio-05C7F2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<!-- Quote Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk5ajAzM3Y2Z3VxbDJwa3puMXp3aTBiY2F0M2J2djM5NXE4NGVraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1569RvwRjejO2IcueA/giphy.gif" width="35" height="35"> 
+  Favorite Quote
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk5ajAzM3Y2Z3VxbDJwa3puMXp3aTBiY2F0M2J2djM5NXE4NGVraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1569RvwRjejO2IcueA/giphy.gif" width="35" height="35">
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=800&size=25&duration=3000&pause=1000&color=05C7F2&center=true&vCenter=true&width=800&height=100&lines=Code+is+like+the+universe+%E2%80%94+elegant%2C+mysterious%2C;and+full+of+possibilities." alt="Favorite Quote" />
+</p>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=andiez&style=for-the-badge&color=05C7F2" alt="Profile Views" />
+</div>
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05C7F2,100:0D1117&height=150&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
+</p>
