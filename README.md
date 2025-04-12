@@ -57,11 +57,6 @@
   </div>
 </div>
 
-<!-- Visitor Counter -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://profile-counter.glitch.me/{andiez}/count.svg" alt="Visitor Counter" />
-</div>
-
 <!-- Footer with Animated Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05C7F2,100:001833&height=150&section=footer&animation=twinkling" alt="Footer Wave" />
