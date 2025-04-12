@@ -54,9 +54,6 @@
     <a href="https://linkedin.com/in/andiez" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
     </a>
-    <a href="https://andiez.dev" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000" alt="Portfolio" />
-    </a>
   </div>
 </div>
 
