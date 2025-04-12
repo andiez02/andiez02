@@ -31,7 +31,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="andiez1162004@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/andiez">
