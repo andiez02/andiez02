@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001833,100:05C7F2&height=300&section=header&text=Hello%20Universe,%20I'm%20Andiez&fontSize=40&fontColor=FFFFFF&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Cosmic%20Code%20Explorer&descSize=20&descAlignY=50&animation=twinkling" alt="Header Banner"/>
 </div>
-
+<div>
   <!-- Tech Stack Icons Overlay -->
   <div style="margin-top: -120px; position: relative; z-index: 2; background: rgba(0,0,0,0.4); padding: 20px; border-radius: 15px; width: 80%; margin-left: auto; margin-right: auto;">
     <h3 style="color: #05C7F2; margin-bottom: 20px;">Tech Universe</h3>
