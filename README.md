@@ -1,51 +1,45 @@
-<h1 align="center">Hi there 👋, I'm Andiez</h1>
+<!-- Banner Universe Background -->
+<p align="center">
+  <img src="https://i.imgur.com/VzNdwYB.gif" alt="cosmic banner" width="100%" />
+</p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF90&center=true&vCenter=true&multiline=true&width=500&lines=🚀+Full+Stack+Developer;⚡️+React+%7C+Next.js+%7C+Express.js" alt="Typing SVG" />
-</h3>
+<h1 align="center">🌌 Hello Universe, I'm <span style="color:#00f0ff;">Andiez</span></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andiez&label=Profile%20views&color=00ff90&style=flat" alt="andiez" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F0FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Lover+of+JavaScript+%26+the+Stars;React+%7C+Node+%7C+TypeScript" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- 3D Hacker Matrix Background Effect -->
+### 🛠️ My Tech Stack
+
 <p align="center">
-  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="100%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,github,vscode" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🌟 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,typescript,nodejs,tailwind,python,flask,mongodb" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andiez&show_icons=true&theme=matrix" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andiez&theme=matrix" width="49%" />
-</p>
+- 🧠 Always exploring, always building
+- 🛸 Code like a starship engineer
+- 🎯 Focused on clean architecture and cool UI/UX
+- 🔭 Love working with JS, TS, and web stacks
 
 ---
 
-### 🌐 Connect with Me
+### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/andiez"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://andiez.dev"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andiez&theme=matrix&no-frame=true&column=6" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/andiez">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://andiez.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+  </a>
 </p>
 
 ---
