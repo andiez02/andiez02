@@ -21,11 +21,6 @@
   </a>
 </p>
 
-<!-- Animated Space Separator -->
-<p align="center">
-  <img src="https://i.imgur.com/ZFziFLT.gif" width="100%" height="50" alt="stars divider">
-</p>
-
 <!-- About Me Section with Space Theme -->
 <div align="center" style="background: url('https://i.imgur.com/UIqdHuC.gif') center/cover no-repeat; padding: 40px 20px; border-radius: 15px; margin: 20px 0;">
   <h2 style="color: #05C7F2; text-shadow: 0 0 10px #05C7F2;">About Me</h2>
