@@ -51,7 +51,7 @@
     <a href="andiez1162004@gmail.com" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
     </a>
-    <a href="www.linkedin.com/in/tấn-nguyễn-2242542b9" style="margin: 0 10px;">
+    <a href="www.linkedin.com/in/andiez02" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
     </a>
   </div>
