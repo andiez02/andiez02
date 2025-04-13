@@ -43,16 +43,6 @@
   </table>
 </div>
 
-<!-- Connection Section with Glowing Buttons -->
-<div align="center" style="background: url('https://i.imgur.com/0rLlEHo.gif') center/cover no-repeat; padding: 40px 20px; border-radius: 15px; margin: 20px 0;">
-  <h2 style="color: #05C7F2; text-shadow: 0 0 10px #05C7F2; margin-bottom: 30px;">Connect With Me</h2>
-  
-  <div style="display: inline-block; background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px;">
-    <a href="andiez1162004@gmail.com" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
-    </a>
-  </div>
-</div>
 
 <!-- Footer with Animated Wave -->
 <p align="center">
