@@ -48,10 +48,10 @@
   <h2 style="color: #05C7F2; text-shadow: 0 0 10px #05C7F2; margin-bottom: 30px;">Connect With Me</h2>
   
   <div style="display: inline-block; background: rgba(0,0,0,0.6); padding: 20px; border-radius: 15px;">
-    <a href="mailto:your.email@example.com" style="margin: 0 10px;">
+    <a href="andiez1162004@gmail.com" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/andiez" style="margin: 0 10px;">
+    <a href="www.linkedin.com/in/tấn-nguyễn-2242542b9" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
     </a>
   </div>
